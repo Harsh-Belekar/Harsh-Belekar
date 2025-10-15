@@ -60,7 +60,7 @@ A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations
 ### 🗳️ [Election Data Analysis (SQL)](https://github.com/Harsh-Belekar/Election-Data-Analysis-SQL)  
 **End-to-end SQL analysis** exploring **party performance, voter trends, and constituency-level insights**.  
 
-### 📊 [Credit Card Transaction Analysis (Power BI + SQL)](https://github.com/Harsh-Belekar/Credit-Card-Transaction-Analysis)  
+### 📊 [Credit Card Transaction Analysis (Power BI + SQL)](https://github.com/Harsh-Belekar/Credit-Card-Transaction-Analysis-Power-BI)  
 An interactive **Power BI dashboard** revealing insights on **customer spending, revenue trends, and card performance**.
 
 ### 🏦 [Bank Transactions Fraud Detection (SQL Project)](https://github.com/Harsh-Belekar/Bank-Transactions-Fraud-Detection-SQL-Project)  
@@ -93,4 +93,5 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
+
 </p>
