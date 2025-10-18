@@ -27,16 +27,16 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
 ### 📊 Data Tools  
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-normalgreen?style=plastic&logo=microsoftpowerquery&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-normalgreen?style=plastic&logo=microsoftpowerquery&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 
 
 ### 📚 Libraries  
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005A9C?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=plastic&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005A9C?style=plastic&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=plastic&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-42A5F5?style=plastic) ![JSON](https://img.shields.io/badge/JSON-F37626?style=plastic&logo=json&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-00979D?style=plastic&logo=sqlite&logoColor=white)
 
 ### 🕹️ Game Development  
 
@@ -55,7 +55,10 @@
 ## 🚀 Featured Projects  
 
 ### 🎮 [Shinobi Saga](https://github.com/Harsh-Belekar/Shinobi-Saga)  
-A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations, health bars, weapons, and special attacks**.  
+A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations, health bars, weapons, and special attacks**.
+
+### 🪔 [Diwali Sales Analysis (Python)](https://github.com/Harsh-Belekar/Diwali-Sales-Analysis-Python)  
+A **Python-based data analysis project** exploring **Diwali sales trends, customer behavior, top-performing states, occupations, and product categories**, using **Pandas, NumPy, Matplotlib, and Seaborn** to derive **actionable business insights**.
 
 ### 🗳️ [Election Data Analysis (SQL)](https://github.com/Harsh-Belekar/Election-Data-Analysis-SQL)  
 **End-to-end SQL analysis** exploring **party performance, voter trends, and constituency-level insights**.  
@@ -95,3 +98,4 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
