@@ -57,6 +57,9 @@
 ### 🎮 [Shinobi Saga](https://github.com/Harsh-Belekar/Shinobi-Saga)  
 A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations, health bars, weapons, and special attacks**.
 
+### 🏦 [Bank Loan Analysis (Python)](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)  
+A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**.
+
 ### 🪔 [Diwali Sales Analysis (Python)](https://github.com/Harsh-Belekar/Diwali-Sales-Analysis-Python)  
 A **Python-based data analysis project** exploring **Diwali sales trends, customer behavior, top-performing states, occupations, and product categories**, using **Pandas, NumPy, Matplotlib, and Seaborn** to derive **actionable business insights**.
 
@@ -64,10 +67,7 @@ A **Python-based data analysis project** exploring **Diwali sales trends, custom
 **End-to-end SQL analysis** exploring **party performance, voter trends, and constituency-level insights**.  
 
 ### 📊 [Credit Card Transaction Analysis (Power BI + SQL)](https://github.com/Harsh-Belekar/Credit-Card-Transaction-Analysis-Power-BI)  
-An interactive **Power BI dashboard** revealing insights on **customer spending, revenue trends, and card performance**.
-
-### 🏦 [Bank Transactions Fraud Detection (SQL Project)](https://github.com/Harsh-Belekar/Bank-Transactions-Fraud-Detection-SQL-Project)  
-A complete **SQL data analysis project** to identify **suspicious and fraudulent transactions** using **window functions, CTEs, and aggregations** in PostgreSQL.  
+An interactive **Power BI dashboard** revealing insights on **customer spending, revenue trends, and card performance**.  
 
 ### 🛒 [Blinkit Grocery Sales Analysis (Excel Dashboard)](https://github.com/Harsh-Belekar/Blinkit-Grocery-Sales-Analysis-Excel)  
 An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance**, including outlet insights, item-level analysis, and customer ratings.  
@@ -98,4 +98,5 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
 
