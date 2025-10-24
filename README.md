@@ -60,8 +60,8 @@ A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations
 ### 🏦 [Bank Loan Analysis (Python)](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)  
 A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**.
 
-### 🪔 [Diwali Sales Analysis (Python)](https://github.com/Harsh-Belekar/Diwali-Sales-Analysis-Python)  
-A **Python-based data analysis project** exploring **Diwali sales trends, customer behavior, top-performing states, occupations, and product categories**, using **Pandas, NumPy, Matplotlib, and Seaborn** to derive **actionable business insights**.
+### 📉 [Customer Churn Analysis (Python)](https://github.com/Harsh-Belekar/Customer-Churn-Analysis-Python)  
+A complete **Customer Churn Analysis project** using **Python** to identify **why customers leave a telecom company**, leveraging **EDA, feature engineering, and predictive modeling** to uncover key **retention insights and churn drivers**.
 
 ### 🗳️ [Election Data Analysis (SQL)](https://github.com/Harsh-Belekar/Election-Data-Analysis-SQL)  
 **End-to-end SQL analysis** exploring **party performance, voter trends, and constituency-level insights**.  
@@ -98,5 +98,6 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
 
 
