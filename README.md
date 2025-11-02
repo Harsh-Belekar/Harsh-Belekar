@@ -57,11 +57,12 @@
 ### 🎮 [Shinobi Saga](https://github.com/Harsh-Belekar/Shinobi-Saga)  
 A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations, health bars, weapons, and special attacks**.
 
+### 🏢 [Vendor Performance Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Vender-Performance-Analysis-Python-SQL-PowerBI)  
+A **data-driven performance evaluation project** combining **Python, SQL, and Power BI** to analyze **vendor efficiency, cost optimization, and delivery performance**.  
+It provides actionable insights into **supplier reliability, inventory turnover, and procurement strategies** to improve **supply chain decision-making and operational excellence**.
+
 ### 🏦 [Bank Loan Analysis (Python)](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)  
 A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**.
-
-### 📉 [Customer Churn Analysis (Python)](https://github.com/Harsh-Belekar/Customer-Churn-Analysis-Python)  
-A complete **Customer Churn Analysis project** using **Python** to identify **why customers leave a telecom company**, leveraging **EDA, feature engineering, and predictive modeling** to uncover key **retention insights and churn drivers**.
 
 ### 🗳️ [Election Data Analysis (SQL)](https://github.com/Harsh-Belekar/Election-Data-Analysis-SQL)  
 **End-to-end SQL analysis** exploring **party performance, voter trends, and constituency-level insights**.  
@@ -98,6 +99,7 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
 
 
 
