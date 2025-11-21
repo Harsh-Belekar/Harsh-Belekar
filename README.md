@@ -13,14 +13,13 @@
 
 ## 💼 About Me  
 
-- 👋 I’m **Harsh Belekar**, an aspiring **AI & Data Analytics Engineer** passionate about transforming data into actionable insights.  
-- 🧠 Skilled in **SQL, Power BI, Python, and Excel**, with experience in projects like **Bank Transactions Fraud Detection** and **Blinkit Grocery Sales Analysis**.
-- 🎯 Currently exploring **AI-ML & Data Analytics**  
-- 🤖 Building an **Autonomous Drone** using Raspberry Pi Zero W  
-- 📊 Analyzing data using **SQL, Power BI, and Python**  
-- 🎮 Creating games like **Shinobi Saga**
-- 💡 Love solving problems and learning new technologies  
-
+- 👋 Hi, I’m **Harsh Belekar** — an aspiring **AI & Data Analytics Engineer** passionate about turning raw data into meaningful insights and building intelligent systems.  
+- 🧠 Skilled in **SQL, Power BI, Python, and Excel**, with hands-on experience in projects like **Blinkit Grocery Sales Analysis**, **Bank Transaction Fraud Detection**, and other real-world data projects.  
+- 🎯 Actively exploring the fields of **AI/ML, Data Science, and Data Analytics** to strengthen my problem-solving and analytical capabilities.  
+- 🤖 I have built an **Autonomous Drone** using Raspberry Pi Zero W, integrating sensor fusion, computer vision, and automation.  
+- 📊 Regularly work on **data analysis, ETL workflows, dashboards, and predictive modeling** across SQL, Power BI, Excel, and Python ecosystems.  
+- 🎮 Developing games like **Shinobi Saga**, combining programming, UI/UX, and creative design.  
+- 💡 Passionate about learning new technologies, solving complex problems, and creating meaningful projects that make an impact.   
 
 ---
 
@@ -99,8 +98,3 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
-
-
-
-
-
