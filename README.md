@@ -18,7 +18,7 @@
 - 🎯 Currently exploring **AI-ML & Data Analytics**  
 - 🤖 Building an **Autonomous Drone** using Raspberry Pi Zero W  
 - 📊 Analyzing data using **SQL, Power BI, and Python**  
-- 🎮 Creating games like **Shinobi Saga** and **AI Pokémon Battle Quiz**  
+- 🎮 Creating games like **Shinobi Saga**
 - 💡 Love solving problems and learning new technologies  
 
 
@@ -99,6 +99,7 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
 
 
 
