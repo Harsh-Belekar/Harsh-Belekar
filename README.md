@@ -60,13 +60,12 @@ A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations
 An **End-to-End SQL Project** implementing a complete **Data Warehouse (Bronze → Silver → Gold)** in PostgreSQL, followed by **EDA and 12 modules of Advanced SQL Analytics**.  
 This Project Integrates **ERP + CRM data**, builds a **Star Schema**, develops **ETL Pipelines**, and generates **Customer & Product Insights** through Analytical SQL Queries — showcasing Strong Skills in **Data engineering, Analytics, and Warehouse Architecture**.
 
+### 🏦 [Bank Loan Analysis (Python)](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)  
+A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**. 
 
 ### 🏢 [Vendor Performance Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Vender-Performance-Analysis-Python-SQL-PowerBI)  
 A **data-driven performance evaluation project** combining **Python, SQL, and Power BI** to analyze **vendor efficiency, cost optimization, and delivery performance**.  
 It provides actionable insights into **supplier reliability, inventory turnover, and procurement strategies** to improve **supply chain decision-making and operational excellence**.
-
-### 🏦 [Bank Loan Analysis (Python)](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)  
-A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**. 
 
 ### 📊 [Credit Card Transaction Analysis (Power BI + SQL)](https://github.com/Harsh-Belekar/Credit-Card-Transaction-Analysis-Power-BI)  
 An interactive **Power BI dashboard** revealing insights on **customer spending, revenue trends, and card performance**.  
@@ -100,5 +99,3 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
-
-
