@@ -56,6 +56,11 @@
 ### 🎮 [Shinobi Saga](https://github.com/Harsh-Belekar/Shinobi-Saga)  
 A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations, health bars, weapons, and special attacks**.
 
+### 🗄️ [Advance SQL Project — (Data Warehousing + EDA + Advanced Analytics)](https://github.com/Harsh-Belekar/Advance-SQL-Project-Data-Warehousing-EDA-Advanced-Data-Analytics)  
+An **End-to-End SQL Project** implementing a complete **Data Warehouse (Bronze → Silver → Gold)** in PostgreSQL, followed by **EDA and 12 modules of Advanced SQL Analytics**.  
+This Project Integrates **ERP + CRM data**, builds a **Star Schema**, develops **ETL Pipelines**, and generates **Customer & Product Insights** through Analytical SQL Queries — showcasing Strong Skills in **Data engineering, Analytics, and Warehouse Architecture**.
+
+
 ### 🏢 [Vendor Performance Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Vender-Performance-Analysis-Python-SQL-PowerBI)  
 A **data-driven performance evaluation project** combining **Python, SQL, and Power BI** to analyze **vendor efficiency, cost optimization, and delivery performance**.  
 It provides actionable insights into **supplier reliability, inventory turnover, and procurement strategies** to improve **supply chain decision-making and operational excellence**.
@@ -98,3 +103,4 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
