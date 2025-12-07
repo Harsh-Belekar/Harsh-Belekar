@@ -66,10 +66,7 @@ A **data-driven performance evaluation project** combining **Python, SQL, and Po
 It provides actionable insights into **supplier reliability, inventory turnover, and procurement strategies** to improve **supply chain decision-making and operational excellence**.
 
 ### 🏦 [Bank Loan Analysis (Python)](https://github.com/Harsh-Belekar/Bank-Loan-Analysis-Python)  
-A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**.
-
-### 🗳️ [Election Data Analysis (SQL)](https://github.com/Harsh-Belekar/Election-Data-Analysis-SQL)  
-**End-to-end SQL analysis** exploring **party performance, voter trends, and constituency-level insights**.  
+A comprehensive **loan portfolio analysis project** using **Python** to identify **profitable segments, high-risk borrowers, and strategic insights** for improving lending decisions through **data visualization and business analytics**. 
 
 ### 📊 [Credit Card Transaction Analysis (Power BI + SQL)](https://github.com/Harsh-Belekar/Credit-Card-Transaction-Analysis-Power-BI)  
 An interactive **Power BI dashboard** revealing insights on **customer spending, revenue trends, and card performance**.  
@@ -103,4 +100,5 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
 
