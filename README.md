@@ -87,7 +87,7 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
 
 <a href="mailto:harshbelekar74@gmail.com"><img src="https://img.shields.io/badge/Email-harshbelekar74%40gmail.com-red?style=plastic&logo=gmail"/></a>
 <a href="https://www.linkedin.com/in/harshbelekar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin"/></a>
-<a href="https://github.com/Harsh-Belekar"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=plastic&logo=github"/></a>
+<a href="https://github.com/Harsh-Belekar"><img src="https://img.shields.io/badge/GitHub-Follow-lightgreen?style=plastic&logo=github"/></a>
 
 ---
 
@@ -99,3 +99,4 @@ An interactive **Excel dashboard** analyzing **Blinkit grocery sales performance
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2ED3EA&height=150&section=footer"/>
 
 </p>
+
