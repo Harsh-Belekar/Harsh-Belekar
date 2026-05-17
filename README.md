@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harsh-Belekar&label=Profile+Views&color=2ED3EA&style=flat" alt="profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Harsh-Belekar&label=Profile+Views&color=2ED3EA&style=flat" alt="profile views" /> -->
   <img src="https://img.shields.io/github/followers/Harsh-Belekar?label=Followers&style=social" alt="followers" />
 </p>
 
