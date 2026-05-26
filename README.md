@@ -90,7 +90,8 @@ A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales perfor
 ---
 
 ## 🏆 Achievements & Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harsh-Belekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- [](https://github-profile-trophy.vercel.app/?username=Harsh-Belekar&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy-tawny.vercel.app/?username=Harsh-Belekar&theme=radical&margin-w=4)
 
 ---
 
