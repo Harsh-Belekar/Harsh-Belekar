@@ -82,9 +82,11 @@ A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales perfor
 ---
 
 ## 📈 GitHub Stats  
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsh-Belekar&theme=tokyonight" alt="Harsh's GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Belekar&theme=tokyonight" alt="Top Languages"/>
+</div>
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Belekar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Belekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Belekar&theme=tokyonight)
 
 ---
