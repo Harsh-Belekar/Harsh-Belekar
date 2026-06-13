@@ -55,7 +55,7 @@
 
 ### ⚙️ Tools & IDEs  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=plastic&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=plastic&logo=arduino&logoColor=white)
 
 ---
 
@@ -67,14 +67,14 @@ A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations
 ### 🍔 [Swiggy Sales Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Swiggy-Sales-Analysis)
 An **End-to-End production-grade analytics project** analysing **600,000+ food delivery orders** across 10 Indian cities (2022–2025) using **Python, PostgreSQL, and Power BI**. Covers the complete pipeline — synthetic data generation, star schema design, ETL loading, advanced Python EDA, and a **7-page interactive Power BI dashboard** — solving 7 real business challenges including customer retention, revenue optimisation, restaurant performance, and market expansion strategy.
 
+### 🏢 [Samsung Data Engineering (Python + SQL)](https://github.com/Harsh-Belekar/Samsung-Data-Engineering)  
+This project builds a production-grade Data Warehouse for **Samsung** — from scratch — using the **Medallion Architecture** *(Bronze → Silver → Gold)*. The pipeline begins with **Synthetic Data Generation** simulating Samsung India's real business operations across **Sales, Finance, Customer Relations, After-Sales Service, Supply Chain, and Marketing**, then processes that data through three structured warehouse layers into analytics-ready Gold views.
+
 ### 🗄️ [Advance SQL Project (Data Warehousing + EDA + Advanced Analytics)](https://github.com/Harsh-Belekar/Advance-SQL-Project-Data-Warehousing-EDA-Advanced-Data-Analytics)  
 A comprehensive **End-to-End SQL Data Warehouse project** built in **PostgreSQL**, implementing a full **Bronze → Silver → Gold** layer architecture. Integrates **ERP and CRM source data**, builds a **Star Schema** with clean dimension and fact tables, develops **ETL pipelines**, and applies **12 modules of Advanced SQL Analytics** — covering customer segmentation, product performance, cohort analysis, and cumulative reporting.
 
-### 📸 [Top Instagram Influencers Analysis (Tableau + SQL)](https://github.com/Harsh-Belekar/Top-Instagram-Influencers-Analysis)
-An **end-to-end social media analytics project** analysing top global Instagram influencers to surface insights on **follower reach, engagement rate, growth patterns, and country-level influence**. Uses **Python (Pandas)** for data cleaning, **PostgreSQL** for structured SQL analysis, and **Tableau** for two interactive dashboards — delivering actionable intelligence for influencer marketing and brand strategy decisions.
-
-### 💳 [Credit Card Transaction Analysis (Power BI + SQL)](https://github.com/Harsh-Belekar/Credit-Card-Analysis-PowerBI)  
-An **Interactive Power BI + SQL project** analysing credit card transactions, customer spending behaviour, and revenue performance with real-time updates. Leverages **DAX measures, Power Query transformations**, and drill-through pages to track KPIs such as transaction volume, revenue trends, and card-type performance across customer segments. 
+### 🤖 [Robotic Arm Vehicle (Arduino + Robotics + MIT App Inventor)](https://github.com/Harsh-Belekar/Robotic-Arm-Vehicle)
+A Bluetooth-controlled **4WD Robotic Arm Vehicle** built using **Arduino Uno**, featuring a **4-DOF Robotic Arm**, **Voice Command Support**, and a **Custom Android Application** developed with **MIT App Inventor**. The robot combines a powerful 4-wheel-drive rover base with a servo-controlled robotic arm, allowing users to remotely navigate the vehicle and manipulate objects wirelessly.
 
 ### 🛒 [Blinkit Grocery Sales Analysis (Excel)](https://github.com/Harsh-Belekar/Blinkit-Grocery-Sales-Analysis-Excel)  
 A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales performance using **KPIs, pivot charts, and dynamic slicers**. Covers outlet-wise sales breakdown, item-category analysis, fat-content segmentation, and customer rating trends — delivering retail analytics insights entirely within Excel without any external tools.
