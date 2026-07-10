@@ -62,16 +62,19 @@
 ## 🚀 Featured Projects  
 
 ### 🎮 [Shinobi Saga (Python)](https://github.com/Harsh-Belekar/Shinobi-Saga)  
-A 2D **Naruto vs Sasuke fighting game** made with Pygame, featuring **animations, health bars, weapons, and special attacks**.
+Shinobi Saga is a **2D Anime-Inspired Fighting Game** developed using **Python** and **Pygame**. The project recreates an intense battle between **Naruto** and **Sasuke** with **Smooth character animations**, **combat mechanics**, **projectile attacks**, **health systems**, and **interactive game screens**. The game was built completely from **scratch** using **object-oriented programming** principles and **modular architecture**, providing an **engaging desktop gaming experience** while demonstrating strong **game development** fundamentals. 
 
 ### 🍔 [Swiggy Sales Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Swiggy-Sales-Analysis)
 An **End-to-End production-grade analytics project** analysing **600,000+ food delivery orders** across 10 Indian cities (2022–2025) using **Python, PostgreSQL, and Power BI**. Covers the complete pipeline — synthetic data generation, star schema design, ETL loading, advanced Python EDA, and a **7-page interactive Power BI dashboard** — solving 7 real business challenges including customer retention, revenue optimisation, restaurant performance, and market expansion strategy.
 
-### 🏢 [Samsung Data Engineering (Python + SQL)](https://github.com/Harsh-Belekar/Samsung-Data-Engineering)  
+### 🏢 [Samsung Data Engineering (Python + SQL + Data Warehousing)](https://github.com/Harsh-Belekar/Samsung-Data-Engineering)  
 This project builds a production-grade Data Warehouse for **Samsung** — from scratch — using the **Medallion Architecture** *(Bronze → Silver → Gold)*. The pipeline begins with **Synthetic Data Generation** simulating Samsung India's real business operations across **Sales, Finance, Customer Relations, After-Sales Service, Supply Chain, and Marketing**, then processes that data through three structured warehouse layers into analytics-ready Gold views.
 
 ### 🗄️ [Advance SQL Project (Data Warehousing + EDA + Advanced Analytics)](https://github.com/Harsh-Belekar/Advance-SQL-Project-Data-Warehousing-EDA-Advanced-Data-Analytics)  
 A comprehensive **End-to-End SQL Data Warehouse project** built in **PostgreSQL**, implementing a full **Bronze → Silver → Gold** layer architecture. Integrates **ERP and CRM source data**, builds a **Star Schema** with clean dimension and fact tables, develops **ETL pipelines**, and applies **12 modules of Advanced SQL Analytics** — covering customer segmentation, product performance, cohort analysis, and cumulative reporting.
+
+### 🔥 [Harsh's Portfolio Website (HTML + CSS + JavaScript)](https://harsh-belekar.github.io/)
+Designed and Developed a fully Responsive **Personal Portfolio Website** from scratch using pure **HTML**, **CSS**, and **JavaScript** — with zero frameworks or libraries. The site serves as a central hub to showcase my **Skills**, **Real-World Projects**, **Internship Experience**, and **Personal Artwork** to **Recruiters** and the **Tech Community**. Deployed live on **GitHub Pages** with automatic updates on every push to main.
 
 ### 🤖 [Robotic Arm Vehicle (Arduino + Robotics + MIT App Inventor)](https://github.com/Harsh-Belekar/Robotic-Arm-Vehicle)
 A Bluetooth-controlled **4WD Robotic Arm Vehicle** built using **Arduino Uno**, featuring a **4-DOF Robotic Arm**, **Voice Command Support**, and a **Custom Android Application** developed with **MIT App Inventor**. The robot combines a powerful 4-wheel-drive rover base with a servo-controlled robotic arm, allowing users to remotely navigate the vehicle and manipulate objects wirelessly.
@@ -87,12 +90,14 @@ A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales perfor
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Belekar&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Belekar&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Belekar&theme=tokyonight) 
+
+![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-Belekar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
 ## 🏆 Achievements & Trophies
-<!-- [](https://github-profile-trophy.vercel.app/?username=Harsh-Belekar&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 ![](https://github-profile-trophy-tawny.vercel.app/?username=Harsh-Belekar&theme=radical&margin-w=4)
 
 ---
