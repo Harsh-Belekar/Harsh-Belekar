@@ -90,7 +90,8 @@ A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales perfor
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Belekar&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Belekar&theme=tokyonight) 
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Belekar&theme=tokyonight) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsh-Belekar&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-Belekar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
