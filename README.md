@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=Harsh-Belekar&label=Profile+Views&color=2ED3EA&style=flat" alt="profile views" /> -->
-  <img src="https://img.shields.io/github/followers/Harsh-Belekar?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Harsh-Belekar?label=Followers&style=social" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Harsh-Belekar?label=Stars&style=social" alt="Stars">
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ### 🕹️ Game Development  
 
-![Pygame](https://img.shields.io/badge/Pygame-306998?style=plastic&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-306998?style=plastic&logo=python&logoColor=white) ![Pygame-ce](https://img.shields.io/badge/Pygame-CE-306998?style=plastic&logo=python&logoColor=white)
 
 ### 🛰️ Hardware & IoT  
 
@@ -67,6 +67,9 @@ Shinobi Saga is a **2D Anime-Inspired Fighting Game** developed using **Python**
 ### 🍔 [Swiggy Sales Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Swiggy-Sales-Analysis)
 An **End-to-End production-grade analytics project** analysing **600,000+ food delivery orders** across 10 Indian cities (2022–2025) using **Python, PostgreSQL, and Power BI**. Covers the complete pipeline — synthetic data generation, star schema design, ETL loading, advanced Python EDA, and a **7-page interactive Power BI dashboard** — solving 7 real business challenges including customer retention, revenue optimisation, restaurant performance, and market expansion strategy.
 
+### 🏗️ [GitHub Analytics Database (Data Engineering + Data Warehousing + ETL + Advanced SQL)](https://github.com/Harsh-Belekar/Blinkit-Grocery-Sales-Analysis-Excel)  
+An **End-to-End** **Data Engineering** and **Analytics project** that transforms **Synthetic GitHub Software-Development** data into a **Structured, Business-ready Analytical Database** using **Python**, **PostgreSQL**, **Advanced SQL**, and **Medallion Architecture**. A complete **Bronze → Silver → Gold Pipeline** was implemented to **Ingest**, **Clean**, **Validate**, **Transform**, and **Model** the data for **Analytical Querying**. 
+
 ### 🏢 [Samsung Data Engineering (Python + SQL + Data Warehousing)](https://github.com/Harsh-Belekar/Samsung-Data-Engineering)  
 This project builds a production-grade Data Warehouse for **Samsung** — from scratch — using the **Medallion Architecture** *(Bronze → Silver → Gold)*. The pipeline begins with **Synthetic Data Generation** simulating Samsung India's real business operations across **Sales, Finance, Customer Relations, After-Sales Service, Supply Chain, and Marketing**, then processes that data through three structured warehouse layers into analytics-ready Gold views.
 
@@ -79,9 +82,6 @@ Designed and Developed a fully Responsive **Personal Portfolio Website** from sc
 ### 🤖 [Robotic Arm Vehicle (Arduino + Robotics + MIT App Inventor)](https://github.com/Harsh-Belekar/Robotic-Arm-Vehicle)
 A Bluetooth-controlled **4WD Robotic Arm Vehicle** built using **Arduino Uno**, featuring a **4-DOF Robotic Arm**, **Voice Command Support**, and a **Custom Android Application** developed with **MIT App Inventor**. The robot combines a powerful 4-wheel-drive rover base with a servo-controlled robotic arm, allowing users to remotely navigate the vehicle and manipulate objects wirelessly.
 
-### 🛒 [Blinkit Grocery Sales Analysis (Excel)](https://github.com/Harsh-Belekar/Blinkit-Grocery-Sales-Analysis-Excel)  
-A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales performance using **KPIs, pivot charts, and dynamic slicers**. Covers outlet-wise sales breakdown, item-category analysis, fat-content segmentation, and customer rating trends — delivering retail analytics insights entirely within Excel without any external tools.
-
 ---
 
 ## 📈 GitHub Stats  
@@ -90,7 +90,6 @@ A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales perfor
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Belekar&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Belekar&theme=tokyonight) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsh-Belekar&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsh-Belekar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -108,6 +107,7 @@ A fully **Interactive Excel dashboard** analysing Blinkit's grocery sales perfor
 <a href="mailto:harshbelekar74@gmail.com"><img src="https://img.shields.io/badge/Email-harshbelekar74%40gmail.com-red?style=plastic&logo=gmail"/></a>
 <a href="https://www.linkedin.com/in/harshbelekar"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin"/></a>
 <a href="https://github.com/Harsh-Belekar"><img src="https://img.shields.io/badge/GitHub-Follow-lightgreen?style=plastic&logo=github"/></a>
+<a href="https://www.instagram.com/harsh17.belekar"><img src="https://img.shields.io/badge/Instagram-Follow-f216e7?style=plastic&logo=instagram"/></a>
 
 ---
 
