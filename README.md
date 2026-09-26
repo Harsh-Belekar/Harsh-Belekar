@@ -67,7 +67,7 @@ Shinobi Saga is a **2D Anime-Inspired Fighting Game** developed using **Python**
 ### 🍔 [Swiggy Sales Analysis (Python + SQL + Power BI)](https://github.com/Harsh-Belekar/Swiggy-Sales-Analysis)
 An **End-to-End production-grade analytics project** analysing **600,000+ food delivery orders** across 10 Indian cities (2022–2025) using **Python, PostgreSQL, and Power BI**. Covers the complete pipeline — synthetic data generation, star schema design, ETL loading, advanced Python EDA, and a **7-page interactive Power BI dashboard** — solving 7 real business challenges including customer retention, revenue optimisation, restaurant performance, and market expansion strategy.
 
-### 🏗️ [GitHub Analytics Database (Data Engineering + Data Warehousing + ETL + Advanced SQL)](https://github.com/Harsh-Belekar/Blinkit-Grocery-Sales-Analysis-Excel)  
+### 🏗️ [GitHub Analytics Database (Data Engineering + Data Warehousing + ETL + Advanced SQL)](https://github.com/Harsh-Belekar/GitHub-Analytics-Database)  
 An **End-to-End** **Data Engineering** and **Analytics project** that transforms **Synthetic GitHub Software-Development** data into a **Structured, Business-ready Analytical Database** using **Python**, **PostgreSQL**, **Advanced SQL**, and **Medallion Architecture**. A complete **Bronze → Silver → Gold Pipeline** was implemented to **Ingest**, **Clean**, **Validate**, **Transform**, and **Model** the data for **Analytical Querying**. 
 
 ### 🏢 [Samsung Data Engineering (Python + SQL + Data Warehousing)](https://github.com/Harsh-Belekar/Samsung-Data-Engineering)  
